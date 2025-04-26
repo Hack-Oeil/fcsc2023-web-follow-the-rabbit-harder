@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  follow-the-rabbit-harder:
+    image: anssi/fcsc2023-web-follow-the-rabbit-harder:latest
+    ports:
+      - ${PORT}:80
