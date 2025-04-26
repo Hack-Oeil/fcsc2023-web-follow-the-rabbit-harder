@@ -6,7 +6,7 @@ Note : Ceci est une version durcie du challenge **Follow the Rabbit** qui suppri
 
 
 Fichiers:
-- [- [follow-the-rabbit-public.tar.xz](follow-the-rabbit-harder-public.tar.gz)
+- [follow-the-rabbit-public.tar.xz](follow-the-rabbit-harder-public.tar.gz)
 ](follow-the-rabbit-harder-public.tar.gz)
 
 
